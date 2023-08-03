@@ -3,9 +3,8 @@ from airflow.utils.dates import days_ago
 from airflow import DAG
 
 with DAG(
-    dag_id='primeira_dag',
-    description='Apresentação de uma DAG bem simples',
-    start_date=days_ago(2), schedule="@once") as dag:
+    dag_id='primeira_dag', start_date=days_ago(2), schedule="@once"
+    ) as dag:
 
     @task()
     def tarefa1():

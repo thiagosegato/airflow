@@ -52,7 +52,7 @@ Senha: Copie a senha no arquivo `standalone_admin_password.txt`
 - [Agendamentos e rodagens das DAGs](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/dag-run.html)
 - [Crontab Guru](https://crontab.guru/)
 
-## Bibliotecas utilizadas além do Apache Airflow
+## Bibliotecas utilizadas
 - [Airflow](https://airflow.apache.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
