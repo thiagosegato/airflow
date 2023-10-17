@@ -9,7 +9,7 @@ Inicie o Apache Airflow em sua máquina. Este projeto roda somente em Linux!
     ```
 2. Acesse a pasta:
     ```bash
-    cd airflow-windows
+    cd airflow
     ```
     2.1. <i>Passo Opcional</i>: A partir daqui você poderá optar a utilizar o Vscode. Caso prefira, digite o comando abaixo:
       ```bash
